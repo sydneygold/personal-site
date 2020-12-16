@@ -23,5 +23,9 @@
   font-size: 48px;
 }
 
-
+.info {
+  font-size: 24px;
+  text-decoration: none;
+  color: rgb(28, 29, 29);
+}
 
